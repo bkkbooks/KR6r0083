@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0083_000-X.yaml, hash: 'sha256:3e5892462278f23d415dfa16fb8437e0a7530e145002be2c10899b8ad35ef5e3'}
+  - {seq: 0, filename: KR6r0083_000-X.yaml, hash: 'sha256:15f81878e05f51a18f5edbd9bf0afb50504eb2cbb508aadd9d5027ed090bcc0b'}
   - {seq: 1, filename: KR6r0083_001-X.yaml, hash: 'sha256:71b6c48d5617dc44a0cf7193431f1732f83161ee92d8ddd8fe75225f70af029e'}
   - {seq: 2, filename: KR6r0083_002-X.yaml, hash: 'sha256:2582d20a5870482494db85e76267c01d4d2aa9d7c4e56118753769cd4e4b6d2e'}
   - {seq: 3, filename: KR6r0083_003-X.yaml, hash: 'sha256:33072ffb879bd13cdd0f44607064c01df5a2fc12ae2d06b78bceb8f113304288'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6r0083_006-X.yaml, hash: 'sha256:625d83a34646b26751c88b25a45455e26c643b800ab9399f155913a74c11c67d'}
   - {seq: 7, filename: KR6r0083_007-X.yaml, hash: 'sha256:72e9a83431b4e45baf09f2abffc72b566efc317465ff350af04420067ac8fffd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0083_000-X.markers.yaml, hash: 'sha256:4845c122943bb8b6bbbd92d32065030dff002dc2a9c646d78420dd47f76f1945'}
+  - {seq: 0, role: markers, filename: assets/KR6r0083_000-X.markers.yaml, hash: 'sha256:6d487cf6701615c0c4870b2f162561efc7e96536246f622e744443957174a189'}
   - {seq: 1, role: markers, filename: assets/KR6r0083_001-X.markers.yaml, hash: 'sha256:751e0b530144d5fb6ce7b81c64ac05a0a8b058b3226e794f3987b1faebb73098'}
   - {seq: 2, role: markers, filename: assets/KR6r0083_002-X.markers.yaml, hash: 'sha256:0103f703609ac2abf63359093c4f3c098dd4cc596d84badc1dec72ed84586b77'}
   - {seq: 3, role: markers, filename: assets/KR6r0083_003-X.markers.yaml, hash: 'sha256:6541c07b1f866bf044f535f3b7a4742e99633f7218e5050c655c92c466a933b8'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0083_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 修西聞見錄目次
@@ -1977,4 +1977,4 @@ table_of_contents:
   label: 化鳥神物能超淨穢說
   type: mulu
   level: 1
-hash: sha256:1a57290601a1bdfc5ae1156c6d6959be677792d1b5c8c9833119ac373b56c333
+hash: sha256:7befd738893fed9def083fe4fb90bde25a66d8d2a9f25a7290a77be6fbbf0fc3

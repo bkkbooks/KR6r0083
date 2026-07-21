@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0083_000.yaml, hash: 'sha256:c514a1d8fd02d0ae2a3c521bbb92db2b2dd9d1d1bd9786cc61799a2aac179765'}
+  - {seq: 0, filename: KR6r0083_000.yaml, hash: 'sha256:9758a95eff4bb9d9635c4f524176911debd8592921939a8e3fd6dbdfdb1414f3'}
   - {seq: 1, filename: KR6r0083_001.yaml, hash: 'sha256:67b7093ed58631efffa30c818de3a0a6953c75f3ec182f40efaff00d0847e071'}
   - {seq: 2, filename: KR6r0083_002.yaml, hash: 'sha256:1263e326420e10a25e964f05590e6225f26d99dc4d8ba2d5574f8262efd34211'}
   - {seq: 3, filename: KR6r0083_003.yaml, hash: 'sha256:c99bfb62faba3f5f88cee06bbcfc460804b3eaa53dadaeaa2fa7c0e0218fdb58'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 6, filename: KR6r0083_006.yaml, hash: 'sha256:68b2da3de5bb3e8773058e81d03906cb0c2f3dab7d592ff79474806e5abdff01'}
   - {seq: 7, filename: KR6r0083_007.yaml, hash: 'sha256:0f0213095c642c38ebf99bfbf6a9da8fec1cd6ef71bcde5de20bcdf7ead197ae'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0083_000.markers.yaml, hash: 'sha256:6ccf51a1f086e97a493093f5cee233fe6514fe483f1e0f4e15c6edbfde84adf8'}
+  - {seq: 0, role: markers, filename: assets/KR6r0083_000.markers.yaml, hash: 'sha256:9d19debfd8b1b6d6ab479c1bf577798b38b06d2bc6401cedc67c10cdd29853b7'}
   - {seq: 1, role: markers, filename: assets/KR6r0083_001.markers.yaml, hash: 'sha256:ac2226532c4d4ad5eb46d05ae62a694e1b15f22f75a5a7fb3067640c304e3160'}
   - {seq: 2, role: markers, filename: assets/KR6r0083_002.markers.yaml, hash: 'sha256:789a80c04350434fd1f49184c99ef1231e7cc9911c7d7c6b425e1138e93dee2b'}
   - {seq: 3, role: markers, filename: assets/KR6r0083_003.markers.yaml, hash: 'sha256:38fc7dadbd8a8fbd28819dba7525f69a3e5a581f5384df348fb652caf0181d38'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0083_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 修西聞見錄目次
@@ -1979,7 +1979,7 @@ table_of_contents:
   label: 化鳥神物能超淨穢說
   type: mulu
   level: 1
-hash: sha256:e2a293a3bd70f14d0bd1c3a5b272f8fabd4a67abe0dfa77a56760e46cc935b56
+hash: sha256:be782d40564031591b4d048932eba3ea47c95a81221f91c9f63b05c9dff5de90
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
